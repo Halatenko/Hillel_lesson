@@ -1,4 +1,2 @@
 
 print('Hello World')
-e = 33
-f = 44
