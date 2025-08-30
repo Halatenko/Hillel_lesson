@@ -6,4 +6,5 @@ d = ((a // 100) % 10)
 e = ((a // 10) % 10)
 f = (a % 10)
 
-print(f, e, d, c, b)
+reverse_a = f*10000 + e*1000 + d*100 + c*10 + b
+print(reverse_a)
